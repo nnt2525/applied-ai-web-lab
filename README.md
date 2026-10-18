@@ -7,7 +7,7 @@ A small, reproducible portfolio lab connecting web interfaces, fitted machine le
 ![Editorial portfolio homepage](docs/images/home.jpg)
 
 **Repository:** `nnt2525/applied-ai-web-lab`  
-**Expected GitHub Pages address:** [nnt2525.github.io/applied-ai-web-lab](https://nnt2525.github.io/applied-ai-web-lab/) — deployment has not yet been verified.
+**Live demo:** [nnt2525.github.io/applied-ai-web-lab](https://nnt2525.github.io/applied-ai-web-lab/)
 
 ## Three web experiences
 
