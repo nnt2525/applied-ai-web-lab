@@ -1,6 +1,6 @@
 import { filterRows, summarize, groupRows, toCSV } from './analysis.js';
 import './forecast.js';
-const money = number => new Intl.NumberFormat('en-US', { style: 'currency', currency: 'THB', maximumFractionDigits: 0 }).format(number);
+const money = number => new Intl.NumberFormat('en-US', { style: 'currency', currency: 'THB', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 }).format(number);
 const integer = number => new Intl.NumberFormat('en-US').format(number);
 const percent = number => `${(number * 100).toFixed(1)}%`;
 const filters = document.querySelector('#filters');
