@@ -1,0 +1,13 @@
+{
+  "name": "applied-ai-web-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Three web experiences, a reproducible small ML model, and transparent data analysis.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,1234 @@
+[
+  {
+    "date": "2026-04-08",
+    "split": "train",
+    "actual": 45,
+    "prediction": 37.2466,
+    "baseline": 28
+  },
+  {
+    "date": "2026-04-09",
+    "split": "train",
+    "actual": 51,
+    "prediction": 43.9781,
+    "baseline": 32
+  },
+  {
+    "date": "2026-04-10",
+    "split": "train",
+    "actual": 49,
+    "prediction": 44.622,
+    "baseline": 31
+  },
+  {
+    "date": "2026-04-11",
+    "split": "train",
+    "actual": 42,
+    "prediction": 43.9621,
+    "baseline": 40
+  },
+  {
+    "date": "2026-04-12",
+    "split": "train",
+    "actual": 45,
+    "prediction": 43.2599,
+    "baseline": 37
+  },
+  {
+    "date": "2026-04-13",
+    "split": "train",
+    "actual": 41,
+    "prediction": 38.669,
+    "baseline": 41
+  },
+  {
+    "date": "2026-04-14",
+    "split": "train",
+    "actual": 36,
+    "prediction": 37.3074,
+    "baseline": 42
+  },
+  {
+    "date": "2026-04-15",
+    "split": "train",
+    "actual": 31,
+    "prediction": 36.6518,
+    "baseline": 45
+  },
+  {
+    "date": "2026-04-16",
+    "split": "train",
+    "actual": 31,
+    "prediction": 37.1713,
+    "baseline": 51
+  },
+  {
+    "date": "2026-04-17",
+    "split": "train",
+    "actual": 33,
+    "prediction": 37.3666,
+    "baseline": 49
+  },
+  {
+    "date": "2026-04-18",
+    "split": "train",
+    "actual": 39,
+    "prediction": 40.7043,
+    "baseline": 42
+  },
+  {
+    "date": "2026-04-19",
+    "split": "train",
+    "actual": 39,
+    "prediction": 40.6457,
+    "baseline": 45
+  },
+  {
+    "date": "2026-04-20",
+    "split": "train",
+    "actual": 26,
+    "prediction": 35.3073,
+    "baseline": 41
+  },
+  {
+    "date": "2026-04-21",
+    "split": "train",
+    "actual": 33,
+    "prediction": 33.5766,
+    "baseline": 36
+  },
+  {
+    "date": "2026-04-22",
+    "split": "train",
+    "actual": 34,
+    "prediction": 32.4734,
+    "baseline": 31
+  },
+  {
+    "date": "2026-04-23",
+    "split": "train",
+    "actual": 30,
+    "prediction": 32.8917,
+    "baseline": 31
+  },
+  {
+    "date": "2026-04-24",
+    "split": "train",
+    "actual": 28,
+    "prediction": 34.1952,
+    "baseline": 33
+  },
+  {
+    "date": "2026-04-25",
+    "split": "train",
+    "actual": 52,
+    "prediction": 45.668,
+    "baseline": 39
+  },
+  {
+    "date": "2026-04-26",
+    "split": "train",
+    "actual": 37,
+    "prediction": 40.0923,
+    "baseline": 39
+  },
+  {
+    "date": "2026-04-27",
+    "split": "train",
+    "actual": 36,
+    "prediction": 34.533,
+    "baseline": 26
+  },
+  {
+    "date": "2026-04-28",
+    "split": "train",
+    "actual": 31,
+    "prediction": 34.8828,
+    "baseline": 33
+  },
+  {
+    "date": "2026-04-29",
+    "split": "train",
+    "actual": 34,
+    "prediction": 35.1322,
+    "baseline": 34
+  },
+  {
+    "date": "2026-04-30",
+    "split": "train",
+    "actual": 29,
+    "prediction": 35.701,
+    "baseline": 30
+  },
+  {
+    "date": "2026-05-01",
+    "split": "train",
+    "actual": 33,
+    "prediction": 37.0371,
+    "baseline": 28
+  },
+  {
+    "date": "2026-05-02",
+    "split": "train",
+    "actual": 43,
+    "prediction": 44.8879,
+    "baseline": 52
+  },
+  {
+    "date": "2026-05-03",
+    "split": "train",
+    "actual": 50,
+    "prediction": 43.7889,
+    "baseline": 37
+  },
+  {
+    "date": "2026-05-04",
+    "split": "train",
+    "actual": 34,
+    "prediction": 39.5837,
+    "baseline": 36
+  },
+  {
+    "date": "2026-05-05",
+    "split": "train",
+    "actual": 36,
+    "prediction": 38.4614,
+    "baseline": 31
+  },
+  {
+    "date": "2026-05-06",
+    "split": "train",
+    "actual": 40,
+    "prediction": 38.6359,
+    "baseline": 34
+  },
+  {
+    "date": "2026-05-07",
+    "split": "train",
+    "actual": 37,
+    "prediction": 38.6535,
+    "baseline": 29
+  },
+  {
+    "date": "2026-05-08",
+    "split": "train",
+    "actual": 35,
+    "prediction": 40.0908,
+    "baseline": 33
+  },
+  {
+    "date": "2026-05-09",
+    "split": "train",
+    "actual": 60,
+    "prediction": 51.681,
+    "baseline": 43
+  },
+  {
+    "date": "2026-05-10",
+    "split": "train",
+    "actual": 63,
+    "prediction": 52.2888,
+    "baseline": 50
+  },
+  {
+    "date": "2026-05-11",
+    "split": "train",
+    "actual": 34,
+    "prediction": 39.6881,
+    "baseline": 34
+  },
+  {
+    "date": "2026-05-12",
+    "split": "train",
+    "actual": 41,
+    "prediction": 38.5646,
+    "baseline": 36
+  },
+  {
+    "date": "2026-05-13",
+    "split": "train",
+    "actual": 41,
+    "prediction": 38.1015,
+    "baseline": 40
+  },
+  {
+    "date": "2026-05-14",
+    "split": "train",
+    "actual": 39,
+    "prediction": 37.6543,
+    "baseline": 37
+  },
+  {
+    "date": "2026-05-15",
+    "split": "train",
+    "actual": 35,
+    "prediction": 37.8312,
+    "baseline": 35
+  },
+  {
+    "date": "2026-05-16",
+    "split": "train",
+    "actual": 48,
+    "prediction": 44.6522,
+    "baseline": 60
+  },
+  {
+    "date": "2026-05-17",
+    "split": "train",
+    "actual": 38,
+    "prediction": 44.4784,
+    "baseline": 63
+  },
+  {
+    "date": "2026-05-18",
+    "split": "train",
+    "actual": 29,
+    "prediction": 36.2083,
+    "baseline": 34
+  },
+  {
+    "date": "2026-05-19",
+    "split": "train",
+    "actual": 36,
+    "prediction": 35.6175,
+    "baseline": 41
+  },
+  {
+    "date": "2026-05-20",
+    "split": "train",
+    "actual": 35,
+    "prediction": 34.8507,
+    "baseline": 41
+  },
+  {
+    "date": "2026-05-21",
+    "split": "train",
+    "actual": 32,
+    "prediction": 34.8114,
+    "baseline": 39
+  },
+  {
+    "date": "2026-05-22",
+    "split": "train",
+    "actual": 28,
+    "prediction": 35.2066,
+    "baseline": 35
+  },
+  {
+    "date": "2026-05-23",
+    "split": "train",
+    "actual": 39,
+    "prediction": 41.2604,
+    "baseline": 48
+  },
+  {
+    "date": "2026-05-24",
+    "split": "train",
+    "actual": 42,
+    "prediction": 40.3081,
+    "baseline": 38
+  },
+  {
+    "date": "2026-05-25",
+    "split": "train",
+    "actual": 33,
+    "prediction": 40.9501,
+    "baseline": 29
+  },
+  {
+    "date": "2026-05-26",
+    "split": "train",
+    "actual": 33,
+    "prediction": 35.1751,
+    "baseline": 36
+  },
+  {
+    "date": "2026-05-27",
+    "split": "train",
+    "actual": 34,
+    "prediction": 35.0753,
+    "baseline": 35
+  },
+  {
+    "date": "2026-05-28",
+    "split": "train",
+    "actual": 33,
+    "prediction": 35.6737,
+    "baseline": 32
+  },
+  {
+    "date": "2026-05-29",
+    "split": "train",
+    "actual": 36,
+    "prediction": 36.7555,
+    "baseline": 28
+  },
+  {
+    "date": "2026-05-30",
+    "split": "train",
+    "actual": 38,
+    "prediction": 43.1819,
+    "baseline": 39
+  },
+  {
+    "date": "2026-05-31",
+    "split": "train",
+    "actual": 45,
+    "prediction": 44.1489,
+    "baseline": 42
+  },
+  {
+    "date": "2026-06-01",
+    "split": "train",
+    "actual": 42,
+    "prediction": 39.1711,
+    "baseline": 33
+  },
+  {
+    "date": "2026-06-02",
+    "split": "train",
+    "actual": 39,
+    "prediction": 38.7606,
+    "baseline": 33
+  },
+  {
+    "date": "2026-06-03",
+    "split": "train",
+    "actual": 38,
+    "prediction": 38.9052,
+    "baseline": 34
+  },
+  {
+    "date": "2026-06-04",
+    "split": "train",
+    "actual": 38,
+    "prediction": 39.5852,
+    "baseline": 33
+  },
+  {
+    "date": "2026-06-05",
+    "split": "train",
+    "actual": 40,
+    "prediction": 41.1472,
+    "baseline": 36
+  },
+  {
+    "date": "2026-06-06",
+    "split": "train",
+    "actual": 54,
+    "prediction": 46.1343,
+    "baseline": 38
+  },
+  {
+    "date": "2026-06-07",
+    "split": "train",
+    "actual": 49,
+    "prediction": 46.9806,
+    "baseline": 45
+  },
+  {
+    "date": "2026-06-08",
+    "split": "train",
+    "actual": 47,
+    "prediction": 42.0044,
+    "baseline": 42
+  },
+  {
+    "date": "2026-06-09",
+    "split": "train",
+    "actual": 47,
+    "prediction": 46.4836,
+    "baseline": 39
+  },
+  {
+    "date": "2026-06-10",
+    "split": "train",
+    "actual": 49,
+    "prediction": 45.6329,
+    "baseline": 38
+  },
+  {
+    "date": "2026-06-11",
+    "split": "train",
+    "actual": 38,
+    "prediction": 39.6884,
+    "baseline": 38
+  },
+  {
+    "date": "2026-06-12",
+    "split": "train",
+    "actual": 37,
+    "prediction": 40.3907,
+    "baseline": 40
+  },
+  {
+    "date": "2026-06-13",
+    "split": "train",
+    "actual": 52,
+    "prediction": 46.0231,
+    "baseline": 54
+  },
+  {
+    "date": "2026-06-14",
+    "split": "train",
+    "actual": 44,
+    "prediction": 44.943,
+    "baseline": 49
+  },
+  {
+    "date": "2026-06-15",
+    "split": "train",
+    "actual": 38,
+    "prediction": 39.6013,
+    "baseline": 47
+  },
+  {
+    "date": "2026-06-16",
+    "split": "train",
+    "actual": 34,
+    "prediction": 38.1183,
+    "baseline": 47
+  },
+  {
+    "date": "2026-06-17",
+    "split": "train",
+    "actual": 33,
+    "prediction": 37.4165,
+    "baseline": 49
+  },
+  {
+    "date": "2026-06-18",
+    "split": "train",
+    "actual": 37,
+    "prediction": 36.1864,
+    "baseline": 38
+  },
+  {
+    "date": "2026-06-19",
+    "split": "train",
+    "actual": 34,
+    "prediction": 36.696,
+    "baseline": 37
+  },
+  {
+    "date": "2026-06-20",
+    "split": "train",
+    "actual": 42,
+    "prediction": 42.7362,
+    "baseline": 52
+  },
+  {
+    "date": "2026-06-21",
+    "split": "train",
+    "actual": 44,
+    "prediction": 41.7635,
+    "baseline": 44
+  },
+  {
+    "date": "2026-06-22",
+    "split": "train",
+    "actual": 36,
+    "prediction": 36.5425,
+    "baseline": 38
+  },
+  {
+    "date": "2026-06-23",
+    "split": "train",
+    "actual": 33,
+    "prediction": 35.2799,
+    "baseline": 34
+  },
+  {
+    "date": "2026-06-24",
+    "split": "train",
+    "actual": 34,
+    "prediction": 34.98,
+    "baseline": 33
+  },
+  {
+    "date": "2026-06-25",
+    "split": "train",
+    "actual": 40,
+    "prediction": 42.1454,
+    "baseline": 37
+  },
+  {
+    "date": "2026-06-26",
+    "split": "train",
+    "actual": 30,
+    "prediction": 37.2536,
+    "baseline": 34
+  },
+  {
+    "date": "2026-06-27",
+    "split": "train",
+    "actual": 44,
+    "prediction": 43.2655,
+    "baseline": 42
+  },
+  {
+    "date": "2026-06-28",
+    "split": "train",
+    "actual": 40,
+    "prediction": 44.0893,
+    "baseline": 44
+  },
+  {
+    "date": "2026-06-29",
+    "split": "train",
+    "actual": 37,
+    "prediction": 39.2409,
+    "baseline": 36
+  },
+  {
+    "date": "2026-06-30",
+    "split": "train",
+    "actual": 35,
+    "prediction": 38.5657,
+    "baseline": 33
+  },
+  {
+    "date": "2026-07-01",
+    "split": "train",
+    "actual": 41,
+    "prediction": 38.8255,
+    "baseline": 34
+  },
+  {
+    "date": "2026-07-02",
+    "split": "train",
+    "actual": 47,
+    "prediction": 40.4394,
+    "baseline": 40
+  },
+  {
+    "date": "2026-07-03",
+    "split": "train",
+    "actual": 39,
+    "prediction": 40.7505,
+    "baseline": 30
+  },
+  {
+    "date": "2026-07-04",
+    "split": "train",
+    "actual": 51,
+    "prediction": 47.2881,
+    "baseline": 44
+  },
+  {
+    "date": "2026-07-05",
+    "split": "train",
+    "actual": 56,
+    "prediction": 47.1491,
+    "baseline": 40
+  },
+  {
+    "date": "2026-07-06",
+    "split": "train",
+    "actual": 45,
+    "prediction": 42.4152,
+    "baseline": 37
+  },
+  {
+    "date": "2026-07-07",
+    "split": "train",
+    "actual": 44,
+    "prediction": 41.2865,
+    "baseline": 35
+  },
+  {
+    "date": "2026-07-08",
+    "split": "train",
+    "actual": 45,
+    "prediction": 41.4368,
+    "baseline": 41
+  },
+  {
+    "date": "2026-07-09",
+    "split": "train",
+    "actual": 55,
+    "prediction": 48.2734,
+    "baseline": 47
+  },
+  {
+    "date": "2026-07-10",
+    "split": "train",
+    "actual": 51,
+    "prediction": 48.0331,
+    "baseline": 39
+  },
+  {
+    "date": "2026-07-11",
+    "split": "train",
+    "actual": 49,
+    "prediction": 47.6132,
+    "baseline": 51
+  },
+  {
+    "date": "2026-07-12",
+    "split": "train",
+    "actual": 53,
+    "prediction": 47.7245,
+    "baseline": 56
+  },
+  {
+    "date": "2026-07-13",
+    "split": "train",
+    "actual": 39,
+    "prediction": 41.4161,
+    "baseline": 45
+  },
+  {
+    "date": "2026-07-14",
+    "split": "train",
+    "actual": 41,
+    "prediction": 39.8038,
+    "baseline": 44
+  },
+  {
+    "date": "2026-07-15",
+    "split": "train",
+    "actual": 43,
+    "prediction": 38.9227,
+    "baseline": 45
+  },
+  {
+    "date": "2026-07-16",
+    "split": "train",
+    "actual": 44,
+    "prediction": 39.9081,
+    "baseline": 55
+  },
+  {
+    "date": "2026-07-17",
+    "split": "train",
+    "actual": 32,
+    "prediction": 39.9277,
+    "baseline": 51
+  },
+  {
+    "date": "2026-07-18",
+    "split": "train",
+    "actual": 46,
+    "prediction": 43.8892,
+    "baseline": 49
+  },
+  {
+    "date": "2026-07-19",
+    "split": "train",
+    "actual": 48,
+    "prediction": 44.0298,
+    "baseline": 53
+  },
+  {
+    "date": "2026-07-20",
+    "split": "train",
+    "actual": 37,
+    "prediction": 37.6853,
+    "baseline": 39
+  },
+  {
+    "date": "2026-07-21",
+    "split": "train",
+    "actual": 27,
+    "prediction": 36.8462,
+    "baseline": 41
+  },
+  {
+    "date": "2026-07-22",
+    "split": "train",
+    "actual": 36,
+    "prediction": 36.6408,
+    "baseline": 43
+  },
+  {
+    "date": "2026-07-23",
+    "split": "train",
+    "actual": 38,
+    "prediction": 37.2916,
+    "baseline": 44
+  },
+  {
+    "date": "2026-07-24",
+    "split": "train",
+    "actual": 40,
+    "prediction": 37.1582,
+    "baseline": 32
+  },
+  {
+    "date": "2026-07-25",
+    "split": "train",
+    "actual": 63,
+    "prediction": 49.6262,
+    "baseline": 46
+  },
+  {
+    "date": "2026-07-26",
+    "split": "train",
+    "actual": 48,
+    "prediction": 44.3653,
+    "baseline": 48
+  },
+  {
+    "date": "2026-07-27",
+    "split": "train",
+    "actual": 39,
+    "prediction": 39.1025,
+    "baseline": 37
+  },
+  {
+    "date": "2026-07-28",
+    "split": "train",
+    "actual": 38,
+    "prediction": 37.6182,
+    "baseline": 27
+  },
+  {
+    "date": "2026-07-29",
+    "split": "train",
+    "actual": 34,
+    "prediction": 38.7843,
+    "baseline": 36
+  },
+  {
+    "date": "2026-07-30",
+    "split": "train",
+    "actual": 45,
+    "prediction": 40.0225,
+    "baseline": 38
+  },
+  {
+    "date": "2026-07-31",
+    "split": "train",
+    "actual": 40,
+    "prediction": 41.7806,
+    "baseline": 40
+  },
+  {
+    "date": "2026-08-01",
+    "split": "train",
+    "actual": 52,
+    "prediction": 49.474,
+    "baseline": 63
+  },
+  {
+    "date": "2026-08-02",
+    "split": "train",
+    "actual": 53,
+    "prediction": 48.3062,
+    "baseline": 48
+  },
+  {
+    "date": "2026-08-03",
+    "split": "train",
+    "actual": 49,
+    "prediction": 43.125,
+    "baseline": 39
+  },
+  {
+    "date": "2026-08-04",
+    "split": "train",
+    "actual": 45,
+    "prediction": 42.3428,
+    "baseline": 38
+  },
+  {
+    "date": "2026-08-05",
+    "split": "train",
+    "actual": 42,
+    "prediction": 41.6257,
+    "baseline": 34
+  },
+  {
+    "date": "2026-08-06",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 43.2982,
+    "baseline": 45
+  },
+  {
+    "date": "2026-08-07",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 43.6151,
+    "baseline": 40
+  },
+  {
+    "date": "2026-08-08",
+    "split": "dev",
+    "actual": 51,
+    "prediction": 49.3528,
+    "baseline": 52
+  },
+  {
+    "date": "2026-08-09",
+    "split": "dev",
+    "actual": 70,
+    "prediction": 55.1449,
+    "baseline": 53
+  },
+  {
+    "date": "2026-08-10",
+    "split": "dev",
+    "actual": 54,
+    "prediction": 49.7406,
+    "baseline": 49
+  },
+  {
+    "date": "2026-08-11",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 41.9193,
+    "baseline": 45
+  },
+  {
+    "date": "2026-08-12",
+    "split": "dev",
+    "actual": 39,
+    "prediction": 40.6266,
+    "baseline": 42
+  },
+  {
+    "date": "2026-08-13",
+    "split": "dev",
+    "actual": 45,
+    "prediction": 40.5946,
+    "baseline": 43
+  },
+  {
+    "date": "2026-08-14",
+    "split": "dev",
+    "actual": 35,
+    "prediction": 40.99,
+    "baseline": 43
+  },
+  {
+    "date": "2026-08-15",
+    "split": "dev",
+    "actual": 48,
+    "prediction": 45.9461,
+    "baseline": 51
+  },
+  {
+    "date": "2026-08-16",
+    "split": "dev",
+    "actual": 46,
+    "prediction": 47.5945,
+    "baseline": 70
+  },
+  {
+    "date": "2026-08-17",
+    "split": "dev",
+    "actual": 35,
+    "prediction": 40.836,
+    "baseline": 54
+  },
+  {
+    "date": "2026-08-18",
+    "split": "dev",
+    "actual": 39,
+    "prediction": 38.3356,
+    "baseline": 43
+  },
+  {
+    "date": "2026-08-19",
+    "split": "dev",
+    "actual": 36,
+    "prediction": 37.2287,
+    "baseline": 39
+  },
+  {
+    "date": "2026-08-20",
+    "split": "dev",
+    "actual": 38,
+    "prediction": 38.192,
+    "baseline": 45
+  },
+  {
+    "date": "2026-08-21",
+    "split": "dev",
+    "actual": 37,
+    "prediction": 38.0422,
+    "baseline": 35
+  },
+  {
+    "date": "2026-08-22",
+    "split": "dev",
+    "actual": 46,
+    "prediction": 44.2175,
+    "baseline": 48
+  },
+  {
+    "date": "2026-08-23",
+    "split": "dev",
+    "actual": 38,
+    "prediction": 44.27,
+    "baseline": 46
+  },
+  {
+    "date": "2026-08-24",
+    "split": "dev",
+    "actual": 40,
+    "prediction": 38.8398,
+    "baseline": 35
+  },
+  {
+    "date": "2026-08-25",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 44.7397,
+    "baseline": 39
+  },
+  {
+    "date": "2026-08-26",
+    "split": "dev",
+    "actual": 37,
+    "prediction": 38.5349,
+    "baseline": 36
+  },
+  {
+    "date": "2026-08-27",
+    "split": "dev",
+    "actual": 35,
+    "prediction": 39.7409,
+    "baseline": 38
+  },
+  {
+    "date": "2026-08-28",
+    "split": "dev",
+    "actual": 37,
+    "prediction": 41.1845,
+    "baseline": 37
+  },
+  {
+    "date": "2026-08-29",
+    "split": "dev",
+    "actual": 46,
+    "prediction": 47.3924,
+    "baseline": 46
+  },
+  {
+    "date": "2026-08-30",
+    "split": "dev",
+    "actual": 45,
+    "prediction": 47.1166,
+    "baseline": 38
+  },
+  {
+    "date": "2026-08-31",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 43.3133,
+    "baseline": 40
+  },
+  {
+    "date": "2026-09-01",
+    "split": "dev",
+    "actual": 43,
+    "prediction": 43.167,
+    "baseline": 43
+  },
+  {
+    "date": "2026-09-02",
+    "split": "dev",
+    "actual": 50,
+    "prediction": 42.4465,
+    "baseline": 37
+  },
+  {
+    "date": "2026-09-03",
+    "split": "test",
+    "actual": 40,
+    "prediction": 42.9117,
+    "baseline": 35
+  },
+  {
+    "date": "2026-09-04",
+    "split": "test",
+    "actual": 51,
+    "prediction": 44.2479,
+    "baseline": 37
+  },
+  {
+    "date": "2026-09-05",
+    "split": "test",
+    "actual": 57,
+    "prediction": 49.8912,
+    "baseline": 46
+  },
+  {
+    "date": "2026-09-06",
+    "split": "test",
+    "actual": 53,
+    "prediction": 49.728,
+    "baseline": 45
+  },
+  {
+    "date": "2026-09-07",
+    "split": "test",
+    "actual": 50,
+    "prediction": 44.7458,
+    "baseline": 43
+  },
+  {
+    "date": "2026-09-08",
+    "split": "test",
+    "actual": 45,
+    "prediction": 43.4933,
+    "baseline": 43
+  },
+  {
+    "date": "2026-09-09",
+    "split": "test",
+    "actual": 59,
+    "prediction": 49.395,
+    "baseline": 50
+  },
+  {
+    "date": "2026-09-10",
+    "split": "test",
+    "actual": 60,
+    "prediction": 48.2238,
+    "baseline": 40
+  },
+  {
+    "date": "2026-09-11",
+    "split": "test",
+    "actual": 46,
+    "prediction": 43.9147,
+    "baseline": 51
+  },
+  {
+    "date": "2026-09-12",
+    "split": "test",
+    "actual": 49,
+    "prediction": 48.6304,
+    "baseline": 57
+  },
+  {
+    "date": "2026-09-13",
+    "split": "test",
+    "actual": 58,
+    "prediction": 47.6578,
+    "baseline": 53
+  },
+  {
+    "date": "2026-09-14",
+    "split": "test",
+    "actual": 36,
+    "prediction": 42.227,
+    "baseline": 50
+  },
+  {
+    "date": "2026-09-15",
+    "split": "test",
+    "actual": 44,
+    "prediction": 40.2355,
+    "baseline": 45
+  },
+  {
+    "date": "2026-09-16",
+    "split": "test",
+    "actual": 39,
+    "prediction": 40.9343,
+    "baseline": 59
+  },
+  {
+    "date": "2026-09-17",
+    "split": "test",
+    "actual": 41,
+    "prediction": 41.1242,
+    "baseline": 60
+  },
+  {
+    "date": "2026-09-18",
+    "split": "test",
+    "actual": 42,
+    "prediction": 40.2948,
+    "baseline": 46
+  },
+  {
+    "date": "2026-09-19",
+    "split": "test",
+    "actual": 40,
+    "prediction": 45.118,
+    "baseline": 49
+  },
+  {
+    "date": "2026-09-20",
+    "split": "test",
+    "actual": 51,
+    "prediction": 46.1528,
+    "baseline": 58
+  },
+  {
+    "date": "2026-09-21",
+    "split": "test",
+    "actual": 34,
+    "prediction": 39.2776,
+    "baseline": 36
+  },
+  {
+    "date": "2026-09-22",
+    "split": "test",
+    "actual": 40,
+    "prediction": 39.4638,
+    "baseline": 44
+  },
+  {
+    "date": "2026-09-23",
+    "split": "test",
+    "actual": 40,
+    "prediction": 38.8272,
+    "baseline": 39
+  },
+  {
+    "date": "2026-09-24",
+    "split": "test",
+    "actual": 36,
+    "prediction": 39.906,
+    "baseline": 41
+  },
+  {
+    "date": "2026-09-25",
+    "split": "test",
+    "actual": 50,
+    "prediction": 47.4475,
+    "baseline": 42
+  },
+  {
+    "date": "2026-09-26",
+    "split": "test",
+    "actual": 46,
+    "prediction": 46.4449,
+    "baseline": 40
+  },
+  {
+    "date": "2026-09-27",
+    "split": "test",
+    "actual": 47,
+    "prediction": 48.2963,
+    "baseline": 51
+  },
+  {
+    "date": "2026-09-28",
+    "split": "test",
+    "actual": 42,
+    "prediction": 42.4525,
+    "baseline": 34
+  },
+  {
+    "date": "2026-09-29",
+    "split": "test",
+    "actual": 46,
+    "prediction": 42.7543,
+    "baseline": 40
+  },
+  {
+    "date": "2026-09-30",
+    "split": "test",
+    "actual": 48,
+    "prediction": 42.8567,
+    "baseline": 40
+  }
+]

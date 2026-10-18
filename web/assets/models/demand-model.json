@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "model_type": "ridge-linear-regression",
+  "target": "daily_total_units",
+  "feature_names": [
+    "trend_day",
+    "is_weekend",
+    "sin_week",
+    "cos_week",
+    "sin_30",
+    "cos_30",
+    "is_promotion",
+    "lag_7_units"
+  ],
+  "means": [
+    66.5,
+    0.2833333333,
+    0.0,
+    0.0083333333,
+    -0.0,
+    0.0,
+    0.1,
+    39.8083333333
+  ],
+  "scales": [
+    34.6398133174,
+    0.4506168612,
+    0.7041543391,
+    0.7099980438,
+    0.7071067812,
+    0.7071067812,
+    0.3,
+    7.5191930344
+  ],
+  "intercept": 40.4333333333,
+  "coefficients": [
+    1.0857309743,
+    1.7218667615,
+    -0.0173135902,
+    -0.7973511288,
+    1.9398996336,
+    0.3546023028,
+    1.7872437898,
+    0.8345162307
+  ],
+  "alpha": 100,
+  "scaling_fit": "train only",
+  "clip_min": 0,
+  "training_period": {
+    "start": "2026-04-08",
+    "end": "2026-08-05",
+    "n": 120
+  }
+}

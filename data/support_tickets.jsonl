@@ -1,0 +1,160 @@
+{"id": "account-password-1", "label": "account", "family": "account/password", "split": "train", "language": "en", "text": "I forgot my account password and need a reset"}
+{"id": "account-password-2", "label": "account", "family": "account/password", "split": "train", "language": "en", "text": "Please help reset the password for my login"}
+{"id": "account-password-3", "label": "account", "family": "account/password", "split": "train", "language": "th", "text": "ลืมรหัสผ่านบัญชี ขอเปลี่ยนรหัสผ่านใหม่"}
+{"id": "account-password-4", "label": "account", "family": "account/password", "split": "train", "language": "th", "text": "ช่วยรีเซ็ตรหัสผ่านเพื่อเข้าบัญชีให้หน่อย"}
+{"id": "account-locked-1", "label": "account", "family": "account/locked", "split": "train", "language": "en", "text": "My account is locked after too many login attempts"}
+{"id": "account-locked-2", "label": "account", "family": "account/locked", "split": "train", "language": "en", "text": "Unlock my account so I can sign in"}
+{"id": "account-locked-3", "label": "account", "family": "account/locked", "split": "train", "language": "th", "text": "บัญชีถูกล็อกหลังใส่รหัสผิดหลายครั้ง"}
+{"id": "account-locked-4", "label": "account", "family": "account/locked", "split": "train", "language": "th", "text": "เข้าบัญชีไม่ได้ ระบบแจ้งว่าบัญชีถูกล็อก"}
+{"id": "account-email-1", "label": "account", "family": "account/email", "split": "train", "language": "en", "text": "Change the email address on my account"}
+{"id": "account-email-2", "label": "account", "family": "account/email", "split": "train", "language": "en", "text": "My account email address is no longer active"}
+{"id": "account-email-3", "label": "account", "family": "account/email", "split": "train", "language": "th", "text": "ขอเปลี่ยนอีเมลที่ผูกกับบัญชีผู้ใช้"}
+{"id": "account-email-4", "label": "account", "family": "account/email", "split": "train", "language": "th", "text": "อีเมลบัญชีเก่าใช้ไม่ได้ อยากแก้ไขอีเมล"}
+{"id": "account-profile-1", "label": "account", "family": "account/profile", "split": "train", "language": "en", "text": "How do I edit my account profile name"}
+{"id": "account-profile-2", "label": "account", "family": "account/profile", "split": "train", "language": "en", "text": "Update the phone number in my user profile"}
+{"id": "account-profile-3", "label": "account", "family": "account/profile", "split": "train", "language": "th", "text": "แก้ไขชื่อและเบอร์โทรในโปรไฟล์บัญชีตรงไหน"}
+{"id": "account-profile-4", "label": "account", "family": "account/profile", "split": "train", "language": "th", "text": "ต้องการอัปเดตข้อมูลส่วนตัวของบัญชีผู้ใช้"}
+{"id": "account-delete-1", "label": "account", "family": "account/delete", "split": "train", "language": "en", "text": "I want to delete my account permanently"}
+{"id": "account-delete-2", "label": "account", "family": "account/delete", "split": "train", "language": "en", "text": "Please close my user account and remove my profile"}
+{"id": "account-delete-3", "label": "account", "family": "account/delete", "split": "train", "language": "th", "text": "ต้องการลบบัญชีผู้ใช้ถาวร"}
+{"id": "account-delete-4", "label": "account", "family": "account/delete", "split": "train", "language": "th", "text": "ช่วยปิดบัญชีและลบข้อมูลโปรไฟล์ให้ด้วย"}
+{"id": "account-signin-1", "label": "account", "family": "account/signin", "split": "train", "language": "en", "text": "I cannot sign in to my account with my password"}
+{"id": "account-signin-2", "label": "account", "family": "account/signin", "split": "train", "language": "en", "text": "Login says my account credentials are invalid"}
+{"id": "account-signin-3", "label": "account", "family": "account/signin", "split": "train", "language": "th", "text": "เข้าสู่ระบบบัญชีไม่ได้ทั้งที่รหัสผ่านถูกต้อง"}
+{"id": "account-signin-4", "label": "account", "family": "account/signin", "split": "train", "language": "th", "text": "ล็อกอินบัญชีแล้วแจ้งว่าข้อมูลผู้ใช้ไม่ถูกต้อง"}
+{"id": "account-verification-1", "label": "account", "family": "account/verification", "split": "dev", "language": "en", "text": "The account verification email never arrived"}
+{"id": "account-verification-2", "label": "account", "family": "account/verification", "split": "dev", "language": "en", "text": "I need a new verification code to activate my account"}
+{"id": "account-verification-3", "label": "account", "family": "account/verification", "split": "dev", "language": "th", "text": "ไม่ได้รับอีเมลยืนยันบัญชีผู้ใช้"}
+{"id": "account-verification-4", "label": "account", "family": "account/verification", "split": "dev", "language": "th", "text": "ขอรหัสยืนยันเพื่อเปิดใช้งานบัญชีอีกครั้ง"}
+{"id": "account-twofactor-1", "label": "account", "family": "account/twofactor", "split": "dev", "language": "en", "text": "I lost my phone and cannot verify my account login"}
+{"id": "account-twofactor-2", "label": "account", "family": "account/twofactor", "split": "dev", "language": "en", "text": "Help restore account access with two factor authentication"}
+{"id": "account-twofactor-3", "label": "account", "family": "account/twofactor", "split": "dev", "language": "th", "text": "มือถือหายจึงรับรหัสเข้าบัญชีไม่ได้"}
+{"id": "account-twofactor-4", "label": "account", "family": "account/twofactor", "split": "dev", "language": "th", "text": "ต้องการกู้คืนบัญชีที่เปิดยืนยันตัวตนสองขั้นตอน"}
+{"id": "account-register-1", "label": "account", "family": "account/register", "split": "test", "language": "en", "text": "I cannot create a new user account"}
+{"id": "account-register-2", "label": "account", "family": "account/register", "split": "test", "language": "en", "text": "Registration will not let me open an account"}
+{"id": "account-register-3", "label": "account", "family": "account/register", "split": "test", "language": "th", "text": "สมัครบัญชีผู้ใช้ใหม่ไม่ได้"}
+{"id": "account-register-4", "label": "account", "family": "account/register", "split": "test", "language": "th", "text": "สร้างบัญชีใหม่แล้วระบบไม่ให้ลงทะเบียน"}
+{"id": "account-username-1", "label": "account", "family": "account/username", "split": "test", "language": "en", "text": "Where can I change my account username"}
+{"id": "account-username-2", "label": "account", "family": "account/username", "split": "test", "language": "en", "text": "My login username is wrong in my account settings"}
+{"id": "account-username-3", "label": "account", "family": "account/username", "split": "test", "language": "th", "text": "ต้องการเปลี่ยนชื่อผู้ใช้ของบัญชี"}
+{"id": "account-username-4", "label": "account", "family": "account/username", "split": "test", "language": "th", "text": "ชื่อที่ใช้ล็อกอินผิด แก้ไขในบัญชีตรงไหน"}
+{"id": "billing-duplicate-1", "label": "billing", "family": "billing/duplicate", "split": "train", "language": "en", "text": "My card was charged twice for one payment"}
+{"id": "billing-duplicate-2", "label": "billing", "family": "billing/duplicate", "split": "train", "language": "en", "text": "There are two charges for the same order on my bill"}
+{"id": "billing-duplicate-3", "label": "billing", "family": "billing/duplicate", "split": "train", "language": "th", "text": "บัตรถูกหักเงินซ้ำสองครั้งสำหรับคำสั่งซื้อเดียว"}
+{"id": "billing-duplicate-4", "label": "billing", "family": "billing/duplicate", "split": "train", "language": "th", "text": "ชำระเงินแล้วโดนเรียกเก็บเงินซ้ำในบิล"}
+{"id": "billing-refund-1", "label": "billing", "family": "billing/refund", "split": "train", "language": "en", "text": "When will my payment refund reach my bank"}
+{"id": "billing-refund-2", "label": "billing", "family": "billing/refund", "split": "train", "language": "en", "text": "I paid but need a refund of the charge"}
+{"id": "billing-refund-3", "label": "billing", "family": "billing/refund", "split": "train", "language": "th", "text": "เงินที่ชำระไปจะคืนเข้าบัญชีธนาคารเมื่อไร"}
+{"id": "billing-refund-4", "label": "billing", "family": "billing/refund", "split": "train", "language": "th", "text": "ขอคืนเงินค่าบริการที่ชำระไปแล้ว"}
+{"id": "billing-invoice-1", "label": "billing", "family": "billing/invoice", "split": "train", "language": "en", "text": "Please send an invoice for my payment"}
+{"id": "billing-invoice-2", "label": "billing", "family": "billing/invoice", "split": "train", "language": "en", "text": "I need the receipt and billing invoice"}
+{"id": "billing-invoice-3", "label": "billing", "family": "billing/invoice", "split": "train", "language": "th", "text": "ขอใบเสร็จรับเงินและใบแจ้งหนี้"}
+{"id": "billing-invoice-4", "label": "billing", "family": "billing/invoice", "split": "train", "language": "th", "text": "ชำระเงินแล้วต้องการเอกสารใบกำกับภาษี"}
+{"id": "billing-declined-1", "label": "billing", "family": "billing/declined", "split": "train", "language": "en", "text": "My credit card payment keeps getting declined"}
+{"id": "billing-declined-2", "label": "billing", "family": "billing/declined", "split": "train", "language": "en", "text": "The bank rejected my payment at checkout"}
+{"id": "billing-declined-3", "label": "billing", "family": "billing/declined", "split": "train", "language": "th", "text": "ชำระเงินด้วยบัตรเครดิตไม่ผ่าน"}
+{"id": "billing-declined-4", "label": "billing", "family": "billing/declined", "split": "train", "language": "th", "text": "ธนาคารปฏิเสธการชำระเงินตอนจ่ายเงิน"}
+{"id": "billing-subscription-1", "label": "billing", "family": "billing/subscription", "split": "train", "language": "en", "text": "Cancel my subscription before the next payment"}
+{"id": "billing-subscription-2", "label": "billing", "family": "billing/subscription", "split": "train", "language": "en", "text": "Stop charging my card for the monthly subscription"}
+{"id": "billing-subscription-3", "label": "billing", "family": "billing/subscription", "split": "train", "language": "th", "text": "ขอยกเลิกสมาชิกก่อนตัดเงินรอบถัดไป"}
+{"id": "billing-subscription-4", "label": "billing", "family": "billing/subscription", "split": "train", "language": "th", "text": "หยุดหักค่าบริการรายเดือนจากบัตรให้ด้วย"}
+{"id": "billing-paymentmethod-1", "label": "billing", "family": "billing/paymentmethod", "split": "train", "language": "en", "text": "How can I update the card used for billing"}
+{"id": "billing-paymentmethod-2", "label": "billing", "family": "billing/paymentmethod", "split": "train", "language": "en", "text": "Can I pay this bill by bank transfer"}
+{"id": "billing-paymentmethod-3", "label": "billing", "family": "billing/paymentmethod", "split": "train", "language": "th", "text": "เปลี่ยนบัตรที่ใช้ชำระเงินค่าบริการได้อย่างไร"}
+{"id": "billing-paymentmethod-4", "label": "billing", "family": "billing/paymentmethod", "split": "train", "language": "th", "text": "ใบแจ้งหนี้นี้จ่ายเงินด้วยการโอนได้ไหม"}
+{"id": "billing-overcharge-1", "label": "billing", "family": "billing/overcharge", "split": "dev", "language": "en", "text": "The amount charged is higher than the invoice total"}
+{"id": "billing-overcharge-2", "label": "billing", "family": "billing/overcharge", "split": "dev", "language": "en", "text": "Why is the payment amount on my bill incorrect"}
+{"id": "billing-overcharge-3", "label": "billing", "family": "billing/overcharge", "split": "dev", "language": "th", "text": "ยอดเงินที่ถูกหักมากกว่าราคาในใบแจ้งหนี้"}
+{"id": "billing-overcharge-4", "label": "billing", "family": "billing/overcharge", "split": "dev", "language": "th", "text": "บิลเรียกเก็บเงินผิดจำนวน ช่วยตรวจยอดชำระ"}
+{"id": "billing-coupon-1", "label": "billing", "family": "billing/coupon", "split": "dev", "language": "en", "text": "My discount was missing when the payment was charged"}
+{"id": "billing-coupon-2", "label": "billing", "family": "billing/coupon", "split": "dev", "language": "en", "text": "The coupon did not reduce the bill at payment"}
+{"id": "billing-coupon-3", "label": "billing", "family": "billing/coupon", "split": "dev", "language": "th", "text": "ตอนชำระเงินส่วนลดไม่ถูกหักจากยอดบิล"}
+{"id": "billing-coupon-4", "label": "billing", "family": "billing/coupon", "split": "dev", "language": "th", "text": "ใช้คูปองแล้วแต่ยอดเรียกเก็บเงินยังราคาเต็ม"}
+{"id": "billing-tax-1", "label": "billing", "family": "billing/tax", "split": "test", "language": "en", "text": "Explain the extra tax charge on my billing invoice"}
+{"id": "billing-tax-2", "label": "billing", "family": "billing/tax", "split": "test", "language": "en", "text": "Why does my payment receipt include this tax amount"}
+{"id": "billing-tax-3", "label": "billing", "family": "billing/tax", "split": "test", "language": "th", "text": "ค่าภาษีที่เพิ่มในใบแจ้งหนี้คิดอย่างไร"}
+{"id": "billing-tax-4", "label": "billing", "family": "billing/tax", "split": "test", "language": "th", "text": "ใบเสร็จชำระเงินมีภาษีเพิ่มมาจากอะไร"}
+{"id": "billing-installment-1", "label": "billing", "family": "billing/installment", "split": "test", "language": "en", "text": "Can this payment be split into monthly installments"}
+{"id": "billing-installment-2", "label": "billing", "family": "billing/installment", "split": "test", "language": "en", "text": "I want to pay my bill in installments with my card"}
+{"id": "billing-installment-3", "label": "billing", "family": "billing/installment", "split": "test", "language": "th", "text": "ยอดชำระเงินนี้แบ่งจ่ายรายเดือนได้ไหม"}
+{"id": "billing-installment-4", "label": "billing", "family": "billing/installment", "split": "test", "language": "th", "text": "อยากผ่อนชำระบิลผ่านบัตรเครดิต"}
+{"id": "delivery-late-1", "label": "delivery", "family": "delivery/late", "split": "train", "language": "en", "text": "My parcel delivery is three days late"}
+{"id": "delivery-late-2", "label": "delivery", "family": "delivery/late", "split": "train", "language": "en", "text": "The package has not arrived by the delivery date"}
+{"id": "delivery-late-3", "label": "delivery", "family": "delivery/late", "split": "train", "language": "th", "text": "พัสดุจัดส่งล่าช้าเกินกำหนดสามวัน"}
+{"id": "delivery-late-4", "label": "delivery", "family": "delivery/late", "split": "train", "language": "th", "text": "ถึงวันส่งสินค้าแล้วแต่ยังไม่ได้รับพัสดุ"}
+{"id": "delivery-tracking-1", "label": "delivery", "family": "delivery/tracking", "split": "train", "language": "en", "text": "Where is the tracking number for my parcel"}
+{"id": "delivery-tracking-2", "label": "delivery", "family": "delivery/tracking", "split": "train", "language": "en", "text": "The shipment tracking page does not show my package"}
+{"id": "delivery-tracking-3", "label": "delivery", "family": "delivery/tracking", "split": "train", "language": "th", "text": "ขอเลขติดตามพัสดุที่จัดส่ง"}
+{"id": "delivery-tracking-4", "label": "delivery", "family": "delivery/tracking", "split": "train", "language": "th", "text": "ติดตามสถานะขนส่งของสินค้าได้ที่ไหน"}
+{"id": "delivery-address-1", "label": "delivery", "family": "delivery/address", "split": "train", "language": "en", "text": "Please change the delivery address before shipment"}
+{"id": "delivery-address-2", "label": "delivery", "family": "delivery/address", "split": "train", "language": "en", "text": "The parcel is going to the wrong delivery address"}
+{"id": "delivery-address-3", "label": "delivery", "family": "delivery/address", "split": "train", "language": "th", "text": "ขอเปลี่ยนที่อยู่จัดส่งก่อนส่งสินค้า"}
+{"id": "delivery-address-4", "label": "delivery", "family": "delivery/address", "split": "train", "language": "th", "text": "พัสดุกำลังไปผิดที่อยู่ ต้องแก้ที่อยู่จัดส่ง"}
+{"id": "delivery-missing-1", "label": "delivery", "family": "delivery/missing", "split": "train", "language": "en", "text": "Tracking says delivered but my parcel is missing"}
+{"id": "delivery-missing-2", "label": "delivery", "family": "delivery/missing", "split": "train", "language": "en", "text": "The courier marked my package delivered and I received nothing"}
+{"id": "delivery-missing-3", "label": "delivery", "family": "delivery/missing", "split": "train", "language": "th", "text": "ขนส่งแจ้งว่าส่งแล้วแต่ไม่พบพัสดุ"}
+{"id": "delivery-missing-4", "label": "delivery", "family": "delivery/missing", "split": "train", "language": "th", "text": "สถานะจัดส่งสำเร็จแต่ยังไม่ได้รับสินค้า"}
+{"id": "delivery-damaged-1", "label": "delivery", "family": "delivery/damaged", "split": "train", "language": "en", "text": "My delivered parcel arrived with a broken product"}
+{"id": "delivery-damaged-2", "label": "delivery", "family": "delivery/damaged", "split": "train", "language": "en", "text": "The package was damaged during shipping"}
+{"id": "delivery-damaged-3", "label": "delivery", "family": "delivery/damaged", "split": "train", "language": "th", "text": "พัสดุที่ได้รับเสียหายระหว่างขนส่ง"}
+{"id": "delivery-damaged-4", "label": "delivery", "family": "delivery/damaged", "split": "train", "language": "th", "text": "กล่องบุบและสินค้าแตกตอนจัดส่งมาถึง"}
+{"id": "delivery-wrongitem-1", "label": "delivery", "family": "delivery/wrongitem", "split": "train", "language": "en", "text": "The delivered package contains the wrong product"}
+{"id": "delivery-wrongitem-2", "label": "delivery", "family": "delivery/wrongitem", "split": "train", "language": "en", "text": "My shipment has a different item from my order"}
+{"id": "delivery-wrongitem-3", "label": "delivery", "family": "delivery/wrongitem", "split": "train", "language": "th", "text": "พัสดุที่ส่งมาเป็นสินค้าผิดรายการ"}
+{"id": "delivery-wrongitem-4", "label": "delivery", "family": "delivery/wrongitem", "split": "train", "language": "th", "text": "ได้รับสินค้าคนละอย่างกับที่สั่งจัดส่ง"}
+{"id": "delivery-courier-1", "label": "delivery", "family": "delivery/courier", "split": "dev", "language": "en", "text": "How can I contact the courier delivering my parcel"}
+{"id": "delivery-courier-2", "label": "delivery", "family": "delivery/courier", "split": "dev", "language": "en", "text": "The delivery driver cannot find my house"}
+{"id": "delivery-courier-3", "label": "delivery", "family": "delivery/courier", "split": "dev", "language": "th", "text": "ติดต่อพนักงานขนส่งที่นำพัสดุมาส่งได้ไหม"}
+{"id": "delivery-courier-4", "label": "delivery", "family": "delivery/courier", "split": "dev", "language": "th", "text": "คนส่งสินค้าหาที่อยู่บ้านไม่เจอ"}
+{"id": "delivery-return-1", "label": "delivery", "family": "delivery/return", "split": "dev", "language": "en", "text": "I need the shipping label to return this parcel"}
+{"id": "delivery-return-2", "label": "delivery", "family": "delivery/return", "split": "dev", "language": "en", "text": "Where do I send the package for a product return"}
+{"id": "delivery-return-3", "label": "delivery", "family": "delivery/return", "split": "dev", "language": "th", "text": "ขอใบปะหน้าขนส่งสำหรับส่งคืนสินค้า"}
+{"id": "delivery-return-4", "label": "delivery", "family": "delivery/return", "split": "dev", "language": "th", "text": "ต้องส่งพัสดุคืนสินค้าไปที่อยู่ไหน"}
+{"id": "delivery-dispatch-1", "label": "delivery", "family": "delivery/dispatch", "split": "test", "language": "en", "text": "Has my order been shipped or is the parcel still waiting"}
+{"id": "delivery-dispatch-2", "label": "delivery", "family": "delivery/dispatch", "split": "test", "language": "en", "text": "When will the warehouse dispatch my package for delivery"}
+{"id": "delivery-dispatch-3", "label": "delivery", "family": "delivery/dispatch", "split": "test", "language": "th", "text": "คำสั่งซื้อส่งออกจากคลังหรือยัง รอพัสดุอยู่"}
+{"id": "delivery-dispatch-4", "label": "delivery", "family": "delivery/dispatch", "split": "test", "language": "th", "text": "คลังสินค้าจะส่งพัสดุออกเมื่อไร"}
+{"id": "delivery-shippingfee-1", "label": "delivery", "family": "delivery/shippingfee", "split": "test", "language": "en", "text": "What is the shipping fee to deliver this parcel upcountry"}
+{"id": "delivery-shippingfee-2", "label": "delivery", "family": "delivery/shippingfee", "split": "test", "language": "en", "text": "How much does express package delivery cost"}
+{"id": "delivery-shippingfee-3", "label": "delivery", "family": "delivery/shippingfee", "split": "test", "language": "th", "text": "ค่าขนส่งพัสดุไปต่างจังหวัดราคาเท่าไร"}
+{"id": "delivery-shippingfee-4", "label": "delivery", "family": "delivery/shippingfee", "split": "test", "language": "th", "text": "ส่งสินค้าด่วนมีค่าจัดส่งเท่าไร"}
+{"id": "technical-crash-1", "label": "technical", "family": "technical/crash", "split": "train", "language": "en", "text": "The app crashes every time I open the dashboard"}
+{"id": "technical-crash-2", "label": "technical", "family": "technical/crash", "split": "train", "language": "en", "text": "Your website shows an error and closes unexpectedly"}
+{"id": "technical-crash-3", "label": "technical", "family": "technical/crash", "split": "train", "language": "th", "text": "แอปเด้งปิดเองทุกครั้งที่เปิดหน้าแดชบอร์ด"}
+{"id": "technical-crash-4", "label": "technical", "family": "technical/crash", "split": "train", "language": "th", "text": "เว็บแสดงข้อผิดพลาดแล้วปิดเองตลอด"}
+{"id": "technical-blank-1", "label": "technical", "family": "technical/blank", "split": "train", "language": "en", "text": "The website loads a blank white screen"}
+{"id": "technical-blank-2", "label": "technical", "family": "technical/blank", "split": "train", "language": "en", "text": "The app screen stays empty after loading"}
+{"id": "technical-blank-3", "label": "technical", "family": "technical/blank", "split": "train", "language": "th", "text": "เปิดเว็บไซต์แล้วหน้าจอขาวโหลดไม่ขึ้น"}
+{"id": "technical-blank-4", "label": "technical", "family": "technical/blank", "split": "train", "language": "th", "text": "แอปโหลดเสร็จแล้วหน้าจอว่างเปล่า"}
+{"id": "technical-upload-1", "label": "technical", "family": "technical/upload", "split": "train", "language": "en", "text": "File upload fails with a server error in the app"}
+{"id": "technical-upload-2", "label": "technical", "family": "technical/upload", "split": "train", "language": "en", "text": "I cannot upload a photo because the website errors"}
+{"id": "technical-upload-3", "label": "technical", "family": "technical/upload", "split": "train", "language": "th", "text": "อัปโหลดไฟล์ในเว็บไม่ได้ ระบบขึ้นข้อผิดพลาด"}
+{"id": "technical-upload-4", "label": "technical", "family": "technical/upload", "split": "train", "language": "th", "text": "แอปอัปโหลดรูปไม่สำเร็จและแจ้งเซิร์ฟเวอร์ผิดพลาด"}
+{"id": "technical-slow-1", "label": "technical", "family": "technical/slow", "split": "train", "language": "en", "text": "The website is very slow and keeps freezing"}
+{"id": "technical-slow-2", "label": "technical", "family": "technical/slow", "split": "train", "language": "en", "text": "The app dashboard takes forever to load"}
+{"id": "technical-slow-3", "label": "technical", "family": "technical/slow", "split": "train", "language": "th", "text": "เว็บไซต์ช้ามากและค้างตลอด"}
+{"id": "technical-slow-4", "label": "technical", "family": "technical/slow", "split": "train", "language": "th", "text": "หน้าแดชบอร์ดแอปโหลดช้าผิดปกติ"}
+{"id": "technical-api-1", "label": "technical", "family": "technical/api", "split": "train", "language": "en", "text": "The API integration returns an internal server error"}
+{"id": "technical-api-2", "label": "technical", "family": "technical/api", "split": "train", "language": "en", "text": "My app cannot connect to your API endpoint"}
+{"id": "technical-api-3", "label": "technical", "family": "technical/api", "split": "train", "language": "th", "text": "เชื่อมต่อ API ไม่สำเร็จ ระบบแจ้งเซิร์ฟเวอร์ผิดพลาด"}
+{"id": "technical-api-4", "label": "technical", "family": "technical/api", "split": "train", "language": "th", "text": "แอปเรียก API แล้วได้รับข้อความ error"}
+{"id": "technical-button-1", "label": "technical", "family": "technical/button", "split": "train", "language": "en", "text": "The save button in the app does not respond"}
+{"id": "technical-button-2", "label": "technical", "family": "technical/button", "split": "train", "language": "en", "text": "Clicking the website submit button does nothing"}
+{"id": "technical-button-3", "label": "technical", "family": "technical/button", "split": "train", "language": "th", "text": "กดปุ่มบันทึกในแอปแล้วไม่ตอบสนอง"}
+{"id": "technical-button-4", "label": "technical", "family": "technical/button", "split": "train", "language": "th", "text": "ปุ่มส่งข้อมูลบนเว็บไซต์กดแล้วไม่มีอะไรเกิดขึ้น"}
+{"id": "technical-video-1", "label": "technical", "family": "technical/video", "split": "dev", "language": "en", "text": "The video player in the app freezes with an error"}
+{"id": "technical-video-2", "label": "technical", "family": "technical/video", "split": "dev", "language": "en", "text": "The website cannot play video and shows a black screen"}
+{"id": "technical-video-3", "label": "technical", "family": "technical/video", "split": "dev", "language": "th", "text": "แอปเล่นวิดีโอไม่ได้ หน้าจอค้างขึ้น error"}
+{"id": "technical-video-4", "label": "technical", "family": "technical/video", "split": "dev", "language": "th", "text": "วิดีโอบนเว็บไซต์เป็นจอดำและไม่เล่น"}
+{"id": "technical-connection-1", "label": "technical", "family": "technical/connection", "split": "dev", "language": "en", "text": "The app keeps showing a connection error on good wifi"}
+{"id": "technical-connection-2", "label": "technical", "family": "technical/connection", "split": "dev", "language": "en", "text": "The website disconnects with a network error"}
+{"id": "technical-connection-3", "label": "technical", "family": "technical/connection", "split": "dev", "language": "th", "text": "แอปแจ้งเชื่อมต่อผิดพลาดทั้งที่ไวไฟปกติ"}
+{"id": "technical-connection-4", "label": "technical", "family": "technical/connection", "split": "dev", "language": "th", "text": "เว็บไซต์หลุดและขึ้นข้อผิดพลาดเครือข่าย"}
+{"id": "technical-browser-1", "label": "technical", "family": "technical/browser", "split": "test", "language": "en", "text": "The website layout is broken in my mobile browser"}
+{"id": "technical-browser-2", "label": "technical", "family": "technical/browser", "split": "test", "language": "en", "text": "The app page does not display correctly on Safari"}
+{"id": "technical-browser-3", "label": "technical", "family": "technical/browser", "split": "test", "language": "th", "text": "หน้าเว็บไซต์แสดงผลผิดพลาดบนเบราว์เซอร์มือถือ"}
+{"id": "technical-browser-4", "label": "technical", "family": "technical/browser", "split": "test", "language": "th", "text": "เปิดเว็บในซาฟารีแล้วหน้าจอแสดงผลไม่ถูกต้อง"}
+{"id": "technical-export-1", "label": "technical", "family": "technical/export", "split": "test", "language": "en", "text": "The app fails to export a file and shows an error"}
+{"id": "technical-export-2", "label": "technical", "family": "technical/export", "split": "test", "language": "en", "text": "The website download report button gets stuck"}
+{"id": "technical-export-3", "label": "technical", "family": "technical/export", "split": "test", "language": "th", "text": "แอปส่งออกไฟล์ไม่ได้และแจ้งข้อผิดพลาด"}
+{"id": "technical-export-4", "label": "technical", "family": "technical/export", "split": "test", "language": "th", "text": "กดดาวน์โหลดรายงานในเว็บแล้วระบบค้าง"}

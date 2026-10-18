@@ -1,0 +1,158 @@
+[
+  {
+    "id": "train-en-account",
+    "text": "I forgot my account password and need a reset",
+    "top_class": "account",
+    "posterior": {
+      "account": 1.0,
+      "billing": 3.0595683647513634e-43,
+      "delivery": 9.455712220332495e-59,
+      "technical": 2.4436920101617476e-65
+    },
+    "coverage": 0.8992248062015504,
+    "abstained": false
+  },
+  {
+    "id": "train-th-billing",
+    "text": "ขอใบเสร็จรับเงินและใบแจ้งหนี้",
+    "top_class": "billing",
+    "posterior": {
+      "account": 2.1989681723728252e-36,
+      "billing": 1.0,
+      "delivery": 3.183833229063014e-33,
+      "technical": 5.1986112874846106e-30
+    },
+    "coverage": 0.7283950617283951,
+    "abstained": false
+  },
+  {
+    "id": "heldout-en-delivery",
+    "text": "When will the warehouse dispatch my package for delivery",
+    "top_class": "delivery",
+    "posterior": {
+      "account": 5.718133590437537e-39,
+      "billing": 9.215887287901144e-28,
+      "delivery": 1.0,
+      "technical": 2.564674209480965e-49
+    },
+    "coverage": 0.6851851851851852,
+    "abstained": false
+  },
+  {
+    "id": "heldout-th-technical",
+    "text": "แอปส่งออกไฟล์ไม่ได้และแจ้งข้อผิดพลาด",
+    "top_class": "technical",
+    "posterior": {
+      "account": 6.442910247859491e-20,
+      "billing": 1.5602451428955387e-34,
+      "delivery": 5.248411859275874e-26,
+      "technical": 1.0
+    },
+    "coverage": 0.5980392156862745,
+    "abstained": false
+  },
+  {
+    "id": "heldout-en-account",
+    "text": "I cannot create a new user account",
+    "top_class": "account",
+    "posterior": {
+      "account": 1.0,
+      "billing": 4.685856857678552e-31,
+      "delivery": 2.5567731004581026e-42,
+      "technical": 3.7852775982170537e-22
+    },
+    "coverage": 0.7916666666666666,
+    "abstained": false
+  },
+  {
+    "id": "heldout-th-billing",
+    "text": "ยอดชำระเงินนี้แบ่งจ่ายรายเดือนได้ไหม",
+    "top_class": "billing",
+    "posterior": {
+      "account": 1.323723384770176e-34,
+      "billing": 1.0,
+      "delivery": 8.549292310348768e-33,
+      "technical": 1.8360403531188729e-37
+    },
+    "coverage": 0.44761904761904764,
+    "abstained": false
+  },
+  {
+    "id": "unknown-en-false-accept",
+    "text": "Who won the football match yesterday",
+    "top_class": "billing",
+    "posterior": {
+      "account": 6.638641078526172e-07,
+      "billing": 0.9992365563080718,
+      "delivery": 3.3108321700735356e-08,
+      "technical": 0.0007627467194986
+    },
+    "coverage": 0.4411764705882353,
+    "abstained": false
+  },
+  {
+    "id": "unknown-th-abstain",
+    "text": "แมวชอบนอนวันละกี่ชั่วโมง",
+    "top_class": "billing",
+    "posterior": {
+      "account": 0.0022128949680763933,
+      "billing": 0.7445801694617026,
+      "delivery": 0.24977697972283622,
+      "technical": 0.0034299558473847836
+    },
+    "coverage": 0.19696969696969696,
+    "abstained": true
+  },
+  {
+    "id": "nfkc-fullwidth",
+    "text": "Ｐｌｅａｓｅ ｒｅｓｅｔ ｍｙ ａｃｃｏｕｎｔ ｐａｓｓｗｏｒｄ",
+    "top_class": "account",
+    "posterior": {
+      "account": 1.0,
+      "billing": 6.0602476568195554e-49,
+      "delivery": 8.781898863125622e-52,
+      "technical": 3.419228844616412e-64
+    },
+    "coverage": 0.9333333333333333,
+    "abstained": false
+  },
+  {
+    "id": "unicode-emoji",
+    "text": "🛠️ แอปค้างและเว็บไซต์ขึ้นข้อผิดพลาด 🚀",
+    "top_class": "technical",
+    "posterior": {
+      "account": 6.634281315474942e-45,
+      "billing": 3.150996486482446e-46,
+      "delivery": 8.717858515992406e-45,
+      "technical": 1.0
+    },
+    "coverage": 0.5714285714285714,
+    "abstained": false
+  },
+  {
+    "id": "single-character",
+    "text": "ก",
+    "top_class": "account",
+    "posterior": {
+      "account": 0.25,
+      "billing": 0.25,
+      "delivery": 0.25,
+      "technical": 0.25
+    },
+    "coverage": 0.0,
+    "abstained": true
+  },
+  {
+    "id": "whitespace-lowercase",
+    "text": "  THE\tWEBSITE\nCRASHES WITH AN ERROR  ",
+    "top_class": "technical",
+    "posterior": {
+      "account": 3.115220186917295e-42,
+      "billing": 4.334195392548329e-42,
+      "delivery": 1.38235211686019e-37,
+      "technical": 1.0
+    },
+    "coverage": 0.7956989247311828,
+    "abstained": false
+  }
+]

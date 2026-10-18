@@ -1,0 +1,18 @@
+{
+  "dev": [
+    "What is the weather in Bangkok today",
+    "Write a poem about a blue mountain",
+    "Recommend a recipe for green curry",
+    "วันนี้อากาศที่เชียงใหม่เป็นอย่างไร",
+    "แต่งกลอนเกี่ยวกับดวงจันทร์ให้หน่อย",
+    "ขอสูตรทำผัดกะเพราให้อร่อย"
+  ],
+  "test": [
+    "Who won the football match yesterday",
+    "Teach me how to play the guitar",
+    "How many planets are in the solar system",
+    "ช่วยแนะนำสถานที่เที่ยวทะเล",
+    "แมวชอบนอนวันละกี่ชั่วโมง",
+    "สอนเล่นเปียโนเพลงง่ายให้หน่อย"
+  ]
+}
